@@ -1,7 +1,7 @@
 {
-  "name": "api-banco",
+  "name": "api-contatos",
   "version": "1.0.0",
-  "description": "API - Agência Bancária",
+  "description": "API - Gestão de contatos",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,9 +10,9 @@
   },
   "keywords": [
     "api",
-    "banco"
+    "contatos"
   ],
-  "author": "Lhuany Motta",
+  "author": "João Teixeira",
   "license": "MIT",
   "dependencies": {
     "express": "^4.18.2",
